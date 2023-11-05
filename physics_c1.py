@@ -13,3 +13,5 @@ elif x=='s' or x=='S':
 	acc2 = (b2-a2)/c2
 	s1 = (a2*c2)+((acc2*c2*c2)/2)
 	print("The distance travelled by the object is ",s1,"meters")
+
+print("end of code")
